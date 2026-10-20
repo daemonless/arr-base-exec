@@ -1,0 +1,16 @@
+name: arr-base-exec
+
+x-daemonless:
+  title: "Arr Base (exec)"
+  class: "base"  # built FROM, not deployed: no Deployment section
+  icon: ":material-layers:"
+  category: "Base"
+  description: "Shared base image for *Arr applications (Radarr, Sonarr, Lidarr, Prowlarr) containing common dependencies, built on base-exec (single process, no supervisor)."
+  upstream_url: "https://github.com/daemonless/arr-base-exec"
+  web_url: "https://wiki.servarr.com/"
+  user: "root"
+  appjail: false
+
+  docs: {}
+
+services: {}
