@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-31T23:09:32Z",
+  "generated": "2026-11-04T11:47:26Z",
   "image": "arr-base-exec",
   "tags": {
     "15.1": {
       "app_version": "15.1",
       "arch": "amd64",
-      "generated": "2026-10-31T23:08:54Z",
+      "generated": "2026-11-04T11:46:35Z",
       "packages": {
         "dotnet": [],
         "freebsd": [
@@ -407,7 +407,7 @@
               "PD"
             ],
             "name": "sqlite3",
-            "version": "3.53.4,1"
+            "version": "3.54.1,1"
           }
         ],
         "go": [],
@@ -435,7 +435,7 @@
     "15.1-latest": {
       "app_version": "15.1",
       "arch": "amd64",
-      "generated": "2026-10-31T23:07:55Z",
+      "generated": "2026-11-04T11:45:50Z",
       "packages": {
         "dotnet": [],
         "freebsd": [
@@ -837,7 +837,7 @@
               "PD"
             ],
             "name": "sqlite3",
-            "version": "3.53.4,1"
+            "version": "3.54.1,1"
           }
         ],
         "go": [],
